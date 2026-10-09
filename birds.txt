@@ -14,3 +14,7 @@ name : Crow
 colour : black
 
 type : wild
+
+git checkout 
+
+git fetch
