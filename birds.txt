@@ -1,0 +1,16 @@
+1
+
+name : Parrot
+
+colour : green
+
+type : domestic
+
+
+2
+
+name : Crow
+
+colour : black
+
+type : wild
