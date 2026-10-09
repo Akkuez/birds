@@ -15,6 +15,6 @@ colour : black
 
 type : wild
 
-git checkout 
+git checkout vishnu
 
 git fetch
